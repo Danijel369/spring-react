@@ -1,1 +1,1 @@
-# hakaton-nssmart
+# for hakaton-nssmart
